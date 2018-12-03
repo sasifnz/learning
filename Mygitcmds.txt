@@ -1,2 +1,7 @@
 Git clone (url)
 To create a branch command is "git checkout -b feature/nametest
+
+git status
+git add
+git commit -m "test comment"
+git push 
