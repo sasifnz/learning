@@ -5,3 +5,5 @@ git status
 git add
 git commit -m "test comment"
 git push 
+
+git checkout is for switching between the branches
