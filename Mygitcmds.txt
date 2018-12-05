@@ -1,4 +1,5 @@
-Git clone (url)
+Git clone url
+// Goto to local directory where you want to clone the project then use this command git clone url //
 To create a branch command is "git checkout -b feature/nametest
 
 git status
@@ -10,3 +11,4 @@ git checkout is for switching between the branches
 
 git pull
 git ignore
+git diff
